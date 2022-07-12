@@ -38,7 +38,7 @@
 <a href="https://www.gatsbyjs.com/" target="_blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="gatsby" height="42px"/></a>
 <a href="https://gulpjs.com/" target="_blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" height="42px"/></a>
 <a href="https://sass-lang.com/" target="_blank"><img class="px-5" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" height="42px"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Github Stats
 
