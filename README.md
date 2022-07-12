@@ -12,8 +12,8 @@
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/acrbaran/)
 - 🎯 Motto : **If you can think, you can code.**
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acrbaran/)
+[Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/acr_baran/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acarbaran/)
 
 ### Skills and Languages
 
