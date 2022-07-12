@@ -41,9 +41,7 @@
 
 ## Github Stats
 
-<p><img align="left" style="width:330px;display: inline; margin-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=acrbaran&show_icons=true&locale=en&layout=compact" alt="acrbaran" /> <img style="width:400px;display: inline;" align="center" src="https://github-readme-stats.vercel.app/api?username=acrbaran&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="acrbaran" /></p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acrbaran&show_icons=true&theme=nord)](https://github.com/acrbaran/github-readme-stats)
+<p><img style="width:400px;display: inline;" align="center" src="https://github-readme-stats.vercel.app/api?username=acrbaran&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=nord" alt="acrbaran" /></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
