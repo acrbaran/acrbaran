@@ -14,9 +14,8 @@
 
 ### Connect with me
 
-<a href="https://www.cprogramming.com/" target="_blank">
-[![website](./img/globe-light.svg)](https://www.acarbaran.com/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://www.acarbaran.com/#gh-dark-mode-only)</a>
+[![website](./img/globe-light.svg)](https://www.acarbaran.com/#gh-light-mode-only){:target="_blank" rel="noopener"}
+[![website](./img/globe-dark.svg)](https://www.acarbaran.com/#gh-dark-mode-only){:target="_blank" rel="noopener"}
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/acarbaran/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/acarbaran/#gh-dark-mode-only)
