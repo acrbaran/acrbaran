@@ -12,7 +12,7 @@
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/acrbaran/)
 - 🎯 Motto : **If you can think, you can code.**
 
-### Connect with me:
+### Connect with me
 
 [![website](./img/globe-light.svg)](https://www.acarbaran.com/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://www.acarbaran.com/#gh-dark-mode-only)
@@ -39,8 +39,6 @@
 <a href="https://gulpjs.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" height="42px"/> </a>
 <a href="https://mui.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui" height="42px"/> </a>
 <a href="https://sass-lang.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" height="42px"/> </a>
-
-<br><br>
 
 ### Github Stats
 
