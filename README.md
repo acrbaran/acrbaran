@@ -14,14 +14,14 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.acarbaran.com/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://www.acarbaran.com/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://www.acarbaran.com/)
+[![website](./img/globe-dark.svg)](https://www.acarbaran.com/)
 &nbsp;&nbsp;
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-light.svg)](https://www.linkedin.com/in/acarbaran/#gh-light-mode-only)
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-dark.svg)](https://www.linkedin.com/in/acarbaran/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/acarbaran/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/acarbaran/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/acr_baran/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/acr_baran/#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/acr_baran/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/acr_baran/)
 
 ### Skills and Languages
 
