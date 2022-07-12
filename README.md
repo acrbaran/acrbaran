@@ -40,14 +40,11 @@
 <a href="https://mui.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui" height="42px"/> </a>
 <a href="https://sass-lang.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" height="42px"/> </a>
 
+<br>
+
 ### Github Stats
 
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/acrbaran/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/acrbaran/github-stats-transparent/output/generated/languages.svg)
-
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acrbaran)](https://github.com/acrbaran/github-readme-stats)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
