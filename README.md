@@ -12,9 +12,16 @@
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/acrbaran/)
 - 🎯 Motto : **If you can think, you can code.**
 
-[![MyWebsite](https://img.shields.io/badge/mywebsite-005571.svg?style=for-the-badge&logo=web&logoColor=white)](https://www.acarbaran.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/acr_baran/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acarbaran/)
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://www.acarbaran.com/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://www.acarbaran.com/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/acarbaran/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/acarbaran/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/acr_baran/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/acr_baran/#gh-dark-mode-only)
 
 ### Skills and Languages
 
