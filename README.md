@@ -25,7 +25,7 @@
 
 ### Languages and Tools
 
-<p>
+<p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" height="42px"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" height="42px"/> </a>
 <a href="https://html.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" height="42px"/> </a>
