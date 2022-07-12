@@ -26,6 +26,7 @@
 ### Skills and Languages
 
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" height="42px"/> </a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" height="42px"/> </a>
 <a href="https://html.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" height="42px"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" height="42px"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" height="42px"/> </a>
@@ -38,6 +39,15 @@
 <a href="https://gulpjs.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" height="42px"/> </a>
 <a href="https://mui.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui" height="42px"/> </a>
 <a href="https://sass-lang.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" height="42px"/> </a>
+
+### Github Stats
+
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/acrbaran/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/acrbaran/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
