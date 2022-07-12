@@ -14,8 +14,8 @@
 
 ### Connect with me
 
-[![website](./img/globe-light.svg)](https://www.acarbaran.com/#gh-light-mode-only){:target="_blank" rel="noopener"}
-[![website](./img/globe-dark.svg)](https://www.acarbaran.com/#gh-dark-mode-only){:target="_blank" rel="noopener"}
+[![website](./img/globe-light.svg)]{:target="_blank" rel="noopener"}(https://www.acarbaran.com/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)]{:target="_blank" rel="noopener"}(https://www.acarbaran.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/acarbaran/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/acarbaran/#gh-dark-mode-only)
