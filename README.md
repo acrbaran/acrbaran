@@ -25,21 +25,19 @@
 
 ### Skills and Languages
 
-<p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="ts" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-plain.svg" alt="gatsby" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" alt="materialui" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-</p>
+<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" height="42px"/> </a>
+<a href="https://html.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" height="42px"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" height="42px"/> </a>
+<a href="https://www.javascript.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" height="42px"/> </a>
+<a href="https://jquery.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" height="42px"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="ts" height="42px"/> </a>
+<a href="https://getbootstrap.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="42px"/> </a>
+<a href="https://angular.io/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" height="42px"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" height="42px"/> </a>
+<a href="https://www.gatsbyjs.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="gatsby" height="42px"/> </a>
+<a href="https://gulpjs.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" height="42px"/> </a>
+<a href="https://mui.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui" height="42px"/> </a>
+<a href="https://sass-lang.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" height="42px"/> </a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
