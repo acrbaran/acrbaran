@@ -45,7 +45,6 @@
 ### Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acrbaran&show_icons=true&theme=nord)](https://github.com/acrbaran/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acrbaran)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
