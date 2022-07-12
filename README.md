@@ -37,11 +37,13 @@
 <a href="https://reactjs.org/" target="_blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" height="42px"/></a>
 <a href="https://www.gatsbyjs.com/" target="_blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="gatsby" height="42px"/></a>
 <a href="https://gulpjs.com/" target="_blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" height="42px"/></a>
-<a href="https://sass-lang.com/" target="_blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" height="42px"/></a>
+<a href="https://sass-lang.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" height="42px"/></a>
   
 ### Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acrbaran&show_icons=true&theme=nord)](https://github.com/acrbaran/github-readme-stats)
+<p align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acrbaran&show_icons=true&theme=nord)](https://github.com/acrbaran/github-readme-stats)
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
