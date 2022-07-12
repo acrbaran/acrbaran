@@ -25,7 +25,6 @@
 
 ### Languages and Tools
 
-<p class="d-inline-block">
 <a href="https://www.cprogramming.com/" target="_blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" height="42px"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" height="42px"/></a>
 <a href="https://html.com/" target="_blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" height="42px"/></a>
@@ -39,7 +38,7 @@
 <a href="https://www.gatsbyjs.com/" target="_blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="gatsby" height="42px"/></a>
 <a href="https://gulpjs.com/" target="_blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" height="42px"/></a>
 <a href="https://sass-lang.com/" target="_blank"><img class="px-5" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" height="42px"/></a>
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Github Stats
 
