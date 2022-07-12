@@ -14,7 +14,7 @@
 
 ### Connect with me
 
-[![website](./img/globe-light.svg)](https://www.acarbaran.com/#gh-light-mode-only){:target="_blank"}
+[website](./img/globe-light.svg)(https://www.acarbaran.com/#gh-light-mode-only){:target="_blank"}
 [![website](./img/globe-dark.svg)](https://www.acarbaran.com/#gh-dark-mode-only){:target="_blank"}
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/acarbaran/#gh-light-mode-only)
