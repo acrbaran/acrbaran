@@ -43,7 +43,7 @@
 
 <p><img style="width:400px;display: inline;" align="center" src="https://github-readme-stats.vercel.app/api?username=acrbaran&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=nord" alt="acrbaran" /></p>
 
-<p><img style="width:400px;display: inline;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acrbaran&layout=compact" alt="acrbaran" /></p>
+<p><img style="width:400px;display: inline;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acrbaran&layout=compact&theme=nord" alt="acrbaran" /></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
