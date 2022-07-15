@@ -39,11 +39,9 @@
 <a href="https://gulpjs.com/" target="_blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" height="42px"/></a>
 <a href="https://sass-lang.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" height="42px"/></a>
 
-## Github Stats
+## Github Stats <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Facrbaran&count_bg=%23649698&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 
-<p><img align="left" style="width:330px;display: inline; margin-right:10px;" src="https://github-readme-stats.vercel.app/api?username=acrbaran&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=nord" alt="acrbaran" /> <img style="width:400px;display: inline;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acrbaran&layout=compact&theme=nord" alt="acrbaran" /></p>
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Facrbaran&count_bg=%23649698&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+<p><img align="left" style="width:400px;display: inline; margin-right:10px;" src="https://github-readme-stats.vercel.app/api?username=acrbaran&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=nord" alt="acrbaran" /> <img style="width:400px;display: inline;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acrbaran&layout=compact&theme=nord" alt="acrbaran" /></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
