@@ -41,9 +41,9 @@
 
 ## Github Stats
 
-<img style="width:400px;display: inline;" align="left" src="https://github-readme-stats.vercel.app/api?username=acrbaran&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=nord" alt="acrbaran" />
+<img style="width:400px;display: inline;" src="https://github-readme-stats.vercel.app/api?username=acrbaran&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=nord" alt="acrbaran" />
 
-<img style="width:400px;display: inline;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acrbaran&layout=compact&theme=nord" alt="acrbaran" />
+<img style="width:400px;display: inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acrbaran&layout=compact&theme=nord" alt="acrbaran" />
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Facrbaran&count_bg=%23649698&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 
